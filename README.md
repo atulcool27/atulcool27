@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java,SpringBoot etc.**
 
-- 🔭 I’m currently working on [**Creating a Flutter Problem Solving Revision Notes Blog for fun**]
+- 🔭 I’m currently working on [**Creating a Problem Solving Revision Notes Website for personal-use using Flutter for frontend**]
 
  
  

@@ -29,7 +29,7 @@
 
 <p> 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
- <img src="https://img.shields.io/badge/SpringBoot-ED8B00?style=for-the-badge&logo=spring&logoColor=orange"/>
+ <img src="https://img.shields.io/badge/SpringBoot-FF6C37?style=for-the-badge&logo=spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>

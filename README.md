@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java,SpringBoot etc.**
 
-- 🔭 I’m currently working on [**Creating a Problem Solving Revision Notes Website for personal-use using Flutter for frontend**]
+- 🔭 I’m currently working on [**improving myself physically,mentally,technically**]
 
  
  
@@ -29,9 +29,26 @@
 
 <p> 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ 
  <img src="https://img.shields.io/badge/SpringBoot-FF6C37?style=for-the-badge&logo=spring&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Hibernate/JPA-FF6C37?style=for-the-badge&logo=hibernate&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kafka-FF6C37?style=for-the-badge&logo=kafka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Drools-FF6C37?style=for-the-badge&logo=drools&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-FF6C37?style=for-the-badge&logo=spark&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Active%20MQ-FF6C37?style=for-the-badge&logo=active-mq&logoColor=black"/>
+ 
+<img src="https://img.shields.io/badge/Microservices-323330?style=for-the-badge&logo=microservices&logoColor=F7DF1E"/>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ 
+ <img src="https://img.shields.io/badge/Cassandra%20DB-0078d7.svg?style=for-the-badge&logo=cassandra&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-0078d7.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-0078d7.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0078d7.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Talend%20ETL-0078d7?style=for-the-badge&logo=talend&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Postman-0078d7?style=for-the-badge&logo=postman&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Eclipse-0078d7.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
 #### Casually Exploring:

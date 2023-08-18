@@ -12,14 +12,14 @@
 
 - 👯 I’m looking to collaborate on **Open source contributions**
 
-- 💬 Ask me about **Java,SpringBoot etc.**
+- 💬 Ask me about **Java,SpringBoot,BigData,System Integrations,System Design etc.**
 
 - 🔭 I’m currently working on [**improving myself physically,mentally,technically**]
 
  
  
 ## Current Employement
-:computer: Software Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [Amdocs].
+:computer: Senior Software Engineer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [American Express].
 - JAVA | SpringBoot Developer
 - Casual Flutter Developer
 
